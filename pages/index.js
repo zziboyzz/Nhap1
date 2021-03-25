@@ -2,7 +2,7 @@ import NotificationContent from "../Component/NotificationContent";
 import Grid from '@material-ui/core/Grid';
 function Home({posts}) {
   return (
-    <div  style={{position:"static", width:"100%", height:"100%", backgroundColor:"red"}}>
+    <div  style={{position:"static", width:"100%", height:"100%"}}>
       
       <Grid container spacing={0} >
             <Grid item xs={false} sm={false} md={3} lg={3} style={{backgroundColor:"#279a97"}} >                        
