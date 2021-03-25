@@ -1,0 +1,28 @@
+{
+    "name": "project1",
+    "version": "0.1.0",
+    "private": true,
+    "scripts": {
+        "dev": "next dev -p 4000",
+        "build": "next build",
+        "start": "next start"
+    },
+    "dependencies": {
+        "@material-ui/core": "^4.11.3",
+        "@material-ui/icons": "^4.11.2",
+        "@react-pdf-viewer/core": "^2.4.1",
+        "@react-pdf-viewer/default-layout": "^2.4.1",
+        "git": "^0.1.5",
+        "next": "^10.0.8",
+        "next-fonts": "^1.5.1",
+        "pdfjs-dist": "^2.6.347",
+        "react": "^17.0.1",
+        "react-dom": "^17.0.1",
+        "react-router-dom": "^5.2.0",
+        "vercel": "^21.3.3",
+        "yarn": "^1.22.10"
+    },
+    "devDependencies": {
+        "create-react-app": "^4.0.3"
+    }
+}
